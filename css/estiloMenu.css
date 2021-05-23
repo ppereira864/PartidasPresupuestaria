@@ -1,0 +1,137 @@
+.Fondo{
+	/* background-color: #F65D84; */
+	background: url('../img/Vista_Black_and_White_by_VistaDude_1600x900.jpg');
+	background-size: cover;
+
+}
+
+.ConsocaroniLogoCentro{
+	background-color: #9DE6E7;
+	padding: 0 20px;
+	min-width: 80px;
+	height:50px;
+	border-radius: 25px;
+}
+
+.FondoPrincipal{
+	width: 100%;
+  	height: 390px;
+	background: url('../img/es_1173_hd.jpg');
+	border-radius: 35px;
+}
+
+*{
+	padding: 0.7px;
+	margin: 0px;
+}
+
+#header{
+/*	margin: 50px; */
+	margin: auto;
+	width: 360px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol{
+	list-style: none;
+}
+
+.nav li a{
+	background-color: #2FE1E8;
+	color: black;
+	text-decoration: none;
+	padding: 10px 8px;
+	display: block;
+	border-radius: 12px;
+
+}
+
+.nav li a:hover{
+	background-color: #BEEEF5;
+}
+
+.nav > li{
+	float: left;
+}
+
+.nav li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+
+.nav li:hover > ul{
+	display: block;
+}
+
+.nav li ul li{
+	position: relative;
+}
+
+.nav li ul li ul{
+	right: -140px;
+	top: 0px;
+}
+
+
+footer div{
+	background-color: #BEEEF5;
+	border-radius: 25px;
+}
+
+footer div:hover{
+	background: #000A66;
+}
+
+
+/**{
+	padding: 0px;
+	margin: 2px;
+}
+
+#header1{
+	margin: auto;
+	width: 360px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol{
+	list-style: none;
+}
+
+.nav1 li a{
+	background-color: #F65D84;
+	color: white;
+	text-decoration: none;
+	padding: 10px 8px;
+	display: block;
+	border-radius: 15px;
+}
+
+.nav1 li a:hover{
+	background-color: pink;
+}
+
+
+.nav1 > li{
+	float: left;
+}
+
+.nav1 li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+
+.nav1 li:hover > ul{
+	display: block;
+}
+
+.nav1 li ul li{
+	position: relative;
+}
+
+.nav1 li ul li ul{
+	right: -140px;
+	top: 0px;
+}*/

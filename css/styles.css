@@ -1,0 +1,36 @@
+#logo{
+	text-align: center;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#logo img {
+	width: 120px;
+}
+
+#membrete{
+	text-align: center;
+}
+
+#parafo{
+	text-align: justify;
+	font-size: 10pt;
+}
+
+#titulo{
+	text-align: center;	
+}
+
+#piedpagina{
+	text-align: center;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#piedpagina img{
+	width: 90px;
+}
+
+#tabla{
+	font-size: 10pt;
+}
